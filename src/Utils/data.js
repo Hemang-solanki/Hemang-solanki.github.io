@@ -174,7 +174,7 @@ export const skills = [
         title: "Vercel",
         tag: "platform"
     },
- 
+
 ]
 export const projects = [
     {
