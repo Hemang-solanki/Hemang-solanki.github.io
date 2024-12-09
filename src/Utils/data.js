@@ -169,6 +169,11 @@ export const skills = [
         title: "NPM",
         tag: "platform"
     },
+    {
+        icon: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTXGxwl9CXMlTQ3ngKLiw6DgkOb6pQlcjUwDQ&s",
+        title: "Vercel",
+        tag: "platform"
+    },
  
 ]
 export const projects = [

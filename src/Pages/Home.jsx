@@ -68,6 +68,7 @@ const Home = () => {
         form.current,
         'tg5A-jEPnntEpWtz6'
       )
+
       .then(
         (result) => {
           toast({
@@ -78,10 +79,12 @@ const Home = () => {
             duration: 5000,
             isClosable: true,
           });
+
           setName("");
           setEmail("");
           setMessage("");
         },
+        
         (error) => {
           toast({
             position: "top-right",
